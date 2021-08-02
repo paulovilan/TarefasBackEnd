@@ -15,7 +15,7 @@ using System.Threading.Tasks;
 using TarefasBackEnd.Repositories;
 using static TarefasBackEnd.Repositories.IUsuarioRepository;
 
-namespace TarefasBackEnd
+namespace TarefasBackEnd //Teste para Stash
 {
     public class Startup //teste 02-08-2021
     {
