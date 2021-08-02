@@ -17,7 +17,7 @@ using static TarefasBackEnd.Repositories.IUsuarioRepository;
 
 namespace TarefasBackEnd
 {
-    public class Startup
+    public class Startup //teste 02-08-2021
     {
         public void ConfigureServices(IServiceCollection services)
         {
